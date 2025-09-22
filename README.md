@@ -8,10 +8,9 @@
 
 ## 👨‍🎓 About Me
 
-- Student preparing for **JEE (Joint Entrance Exam)**
+- suffering from JEE prep
 - Passionate about programming and AI
-- Proud **otaku** – anime is life!
-- Always curious and learning new things
+- otaku
 
 ---
 
@@ -25,11 +24,11 @@
 
 ---
 
-## 🌟 Fun Facts
+## 🌟 What i like
 
-- Binge-watching anime is my superpower—recommend me your favorites!
-- I love mixing anime and tech in my projects
-- Currently diving into AI and automation
+- Binge-watching anime
+- playing games
+- Ai and coding
 
 ---
 
@@ -39,7 +38,7 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Hit me up at
 
 - **Discord:** `_divi._`
 
@@ -50,5 +49,3 @@
 </p>
 
 ---
-
-<p align="center" style="font-size: 20px;"><b>“Code. Anime. Study. Repeat.”</b></p>
