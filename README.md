@@ -10,7 +10,6 @@
 
 - suffering from JEE prep
 - Passionate about programming and AI
-- otaku
 
 ---
 
