@@ -32,11 +32,6 @@
 
 ---
 
-## 📚 My Anime List
-
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-diviis2op-2e51a2?logo=myanimelist&logoColor=white&style=for-the-badge)](https://myanimelist.net/animelist/diviis2op)
-
----
 
 ## 🔗 Hit me up at
 
